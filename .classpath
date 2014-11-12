@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/"/>
 	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.4.0.jar" sourcepath="/usr/local/lucene/lucene-src-4.4.0"/>
 	<classpathentry kind="lib" path="lib/lucene-core-4.4.0.jar" sourcepath="/usr/local/lucene/lucene-src-4.4.0"/>
 	<classpathentry kind="output" path="bin"/>
